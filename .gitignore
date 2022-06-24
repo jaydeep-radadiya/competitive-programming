@@ -1,0 +1,7 @@
+inputf.in
+outputf.in
+Hello.java
+hello.cpp
+*.class
+*.idea
+*.exe
