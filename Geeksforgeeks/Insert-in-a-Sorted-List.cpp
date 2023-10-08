@@ -1,4 +1,7 @@
-class Solution{
+// best case tc : O(1) added at head
+// worst case tc : O(n) added at last
+// sc : O(1)
+class Solution {
 public:
     Node *sortedInsert(struct Node* head, int data) {
         Node *curr = head;
